@@ -1,6 +1,11 @@
 # Dependencies
 node_modules
+old_node_modules
 .pnpm-store
+
+# Large binary files / APK
+*.apk
+public/*.apk
 
 # Production build
 dist
